@@ -51,7 +51,7 @@ As a former UPSC aspirant, I wanted to transform my preparation experience into 
 
 ## 📸 Screenshots
 
-![Dashboard Preview](images/dashboard-preview.png)  
+![Dashboard Preview](https://github.com/mohan1212576/upsc-data-analysis-powerbi/blob/main/Power%20Bi%20Dashboard.png)  
 _(Replace with your actual image path if uploading screenshots)_
 
 ---
