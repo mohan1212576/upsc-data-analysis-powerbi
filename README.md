@@ -73,7 +73,7 @@ A heartfelt thank you to **Dhaval Patel Sir**, **Hemanand Vadivel Sir**, and the
 ## 📌 About Me
 
 I’m transitioning from UPSC preparation to the field of **Data Analytics**, combining domain knowledge with Power BI, Excel, and SQL skills.  
-📫 Feel free to connect: [Insert your LinkedIn profile link]
+📫 Feel free to connect: [https://www.linkedin.com/in/mohanb1999/]
 
 ---
 
