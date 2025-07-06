@@ -59,8 +59,8 @@ _(Replace with your actual image path if uploading screenshots)_
 ## 📽 Demo & Resources
 
 - 🔗 **Live Dashboard**: [https://app.powerbi.com/view?r=eyJrIjoiMTcxYWQ3NjctZTM3ZS00NzIyLWEwZjEtYWM2YzcyZTMxZmU3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]  
-- 🎥 **Video Walkthrough**: [Insert YouTube link]  
-- 📎 **LinkedIn Post**: [Insert LinkedIn post link after publishing]
+- 🎥 **Video Walkthrough**: [https://www.youtube.com/embed/52i6T_0uwAY?si=eYeE8ubbfUxATJO5]  
+- 📎 **LinkedIn Post**: [https://www.linkedin.com/posts/mohanb1999_powerbi-upsc-dataanalytics-activity-7347473257530277888-DyWf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC6O9IsBUFscZdiXW4-tlacqbHfAQjEVH0M]
 
 ---
 
