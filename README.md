@@ -58,7 +58,7 @@ _(Replace with your actual image path if uploading screenshots)_
 
 ## 📽 Demo & Resources
 
-- 🔗 **Live Dashboard**: [Insert Power BI publish-to-web link]  
+- 🔗 **Live Dashboard**: [https://app.powerbi.com/view?r=eyJrIjoiMTcxYWQ3NjctZTM3ZS00NzIyLWEwZjEtYWM2YzcyZTMxZmU3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]  
 - 🎥 **Video Walkthrough**: [Insert YouTube link]  
 - 📎 **LinkedIn Post**: [Insert LinkedIn post link after publishing]
 
